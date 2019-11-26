@@ -21,4 +21,7 @@ cpp_examples = [
 #     (example_name, do_run).
 #
 # See test.py for more information.
-python_examples = []
+python_examples = [
+	("fragmentation-ipv6.py", "True"),
+	("ping6.py", "True"),
+]

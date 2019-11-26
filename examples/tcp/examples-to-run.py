@@ -22,4 +22,7 @@ cpp_examples = [
 #     (example_name, do_run).
 #
 # See test.py for more information.
-python_examples = []
+python_examples = [
+	("tcp-large-transfer.py", "True"),
+	("tcp-pcap-nanosec.py", "True"),
+]

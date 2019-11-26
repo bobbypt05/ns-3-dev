@@ -87,4 +87,6 @@ cpp_examples = [
 python_examples = [
     ("wifi-ap.py", "True"),
     ("mixed-wired-wireless.py", "True"),
+    ("wifi-multi-tos.py", "True"),
+    ("wifi-tcp.py", "True"),
 ]
